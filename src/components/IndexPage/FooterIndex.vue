@@ -73,11 +73,12 @@
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <ul class="list-unstyled li-space-lg p-small">
                         <li><img src="/images/mudanzas-reto.png" alt="Centro Mudanzas Reto" class="image_footer" /><a href="#">Aviso legal y politica de privacidad</a></li>
-                        <li><a href="/">Visitas {{ views }}</a></li>
+                        <li><a href="/">Visitas <span id="userViews">Cargando...</span></a></li>
                     </ul>
                 </div> 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <p class="p-small statement"><a href="/sitemap.xml" target="_blank">Copyright © Mudanzas Reto</a></p>
+                    <p class="p-small statement"><a href="/sitemap.xml" target="_blank">Copyright © </a> 
+                    <a href="https://xboss.es" target="_blank"><b class="xboss">Creado por xBoss.es</b></a></p>
                 </div> 
             </div>
         </div>  
@@ -86,11 +87,10 @@
 <script>
 import ldjson from '@/components/IndexPage/LDJson';
 import storageCitiesWorks from '@/storage/cities';
-import app from "firebase/app";
 export default{
     data(){
         return{
-            listCitiesAndWorks: [], views: 'Cargando...'
+            listCitiesAndWorks: [], 
         }
     },
     components: { ldjson },
@@ -108,62 +108,16 @@ export default{
            arrayPrepare.push(city)
        };
        this.listCitiesAndWorks = arrayPrepare; 
-       this.pushNewViewUser();
     },
     methods: {
-       // currentId(){ alert('call map api =>' + this.$route.params.workDetail)
-       //   // this.insertScriptGooglePages();
-       //   return this.$route.params.workDetail;
-       // },
         deleteEmptySpaces(x){
             return x.replace(' ', '-').replace(' ', '-').replace(' ', '-').replace(' ', '-').replace(' ', '-').replace(' ', '-');
         },
         insertScriptGooglePages(){
-            var scriptMap = document.createElement('script');
-            scriptMap.onload = function() {
-                document.querySelector("[src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw&callback=initMap']").remove()
-                var el = document.getElementsByTagName('head')[0]
-                let scripts = el.getElementsByTagName( 'script' ); 
-          
-                for(var i = 0; i < scripts.length; i++) {
-                  let sc = scripts[i];
-                  if(sc.type == 'application/ld+json') continue;
-                  sc.remove();
-                }
-
-            };
-            scriptMap.type = 'text/javascript';
-            scriptMap.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw&callback=initMap";
-            
-            let cityCurrent = window.location.href;
-            let cityCurr = cityCurrent.split('/');
-            let tiposDeTrabajos = [ 'Mudanzas', 'Vaciados de pisos', 'Reformas', 'Pintura', 'Recogida muebles', 'Limpiezas' ].toString();
-            let currentWork = cityCurr[cityCurr.length-2].replace('-', ' ').replace('-', ' ');
-            
-            if(tiposDeTrabajos.includes(currentWork) ){
-                document.getElementsByTagName('head')[0].appendChild(scriptMap);
-            } else {
            
-            }
             window.scrollTo(0, 0);
         }, 
-        pushNewViewUser(){ 
-            let thisContextApp = this;
-
-           // app.database().ref('all_views/' + new Date().getTime().toString()).set(window.location.pathname);
-
-           // app.database().ref('unique_id').get().then((snapshot) => {
-           //         if (snapshot.exists()) {
-           //           let numberOfUsers = snapshot.val();
-           //           thisContextApp.views = numberOfUsers;
-           //           ++numberOfUsers;
-           //           if( window.localStorage.getItem('user') != 'user' ){
-           //                app.database().ref('unique_id').set(numberOfUsers);
-           //                window.localStorage.setItem('user', 'user'); 
-           //           }
-           //         } 
-           // });  
-        }
+        
     }
 }
 
@@ -187,5 +141,9 @@ export default{
 
 .image_footer{
     width: 35px; margin-right: 11px;
+}
+
+.xboss{
+    color: #0d6efd;
 }
 </style>

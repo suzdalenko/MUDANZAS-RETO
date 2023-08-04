@@ -1,0 +1,42 @@
+.header_title{
+    color: #414141; margin-left:11px; padding-bottom: 11px; font-size:15px;
+   }
+.navbar-brand:hover, .list_map_site:hover, .a_title_page, .a_title_page:hover{
+    text-decoration: none;
+}
+.icon_image{
+     font-size: 15px; color: #414141; margin-top: 11px;
+   }
+.mis_form_images{
+     border-radius: 70% 30% 30% 70%/70% 70% 30% 30%;
+   }
+.h1-large{
+     color: #0092FF; 
+   }
+.images_details{
+    border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
+}
+.images_details2{
+    border-radius: 70% 40% 40% 70%/70% 70% 40% 40%;
+}
+.fa-whatsapp{
+     padding: 0px;
+}
+.p-large{
+    color: black; font-weight: 900;
+}
+.list_cities{
+    margin-left: 4px; margin-right: 4px; font-size: 11px; line-height: 10px; float: left;
+}
+.list_cities:hover, .card-title:hover{
+    color:#0092FF; 
+} 
+.list_map_site{
+    font-size: 21px!Important; text-decoration: none; 
+}
+.description_text{
+    font-weight: 900; font-size: 18px;
+}
+.img_loading{
+    width: 250px; height: 250px;
+}
