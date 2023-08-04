@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /readme
+Host: mudanzasreto.com
+Sitemap: https://mudanzasreto.com/sitemap.xml

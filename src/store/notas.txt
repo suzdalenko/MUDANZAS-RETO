@@ -1,0 +1,19 @@
+ https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJce5riq5JSQ0RlrqCFoDcfNI&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw
+ https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJce5riq5JSQ0RlrqCFoDcfNI&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw&fields=name,photos
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=santa maria de cayon,%20IL&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw&inputtype=textquery&fields=name,photos
+
+"EkxDLiBBbG10ZS4gUGVybyBOacOxbywgNjEsIDFhLCAzOTQwMCBMb3MgQ29ycmFsZXMgZGUgQnVlbG5hLCBDYW50YWJyaWEsIFNwYWluIh4aHAoWChQKEgnb4E6EUz1JDRGzaC7EiBWWwBICMWE"
+
+
+from image
+https://maps.googleapis.com/maps/api/place/photo?photoreference=Aap_uEDPIuCJpL0MxM8pX_EO7-VSzKa32S2SPHNtJ8uARpziV2J5UC9weagOB2UTHO0ZE6Ebgy8VJPQG1uXcMZP1ldhmlkK3ou3kkfuQ5wDyq-8q7DjoW2j6dOtK-g_tDRY9r-KiiDBcAHc_w8ityBkNlkjNlzav7Ec8Cz1i5Ybk9m3n4YJ5&sensor=false&maxheight=30000&maxwidth=30000&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw  
+<img  src="https://maps.googleapis.com/maps/api/place/photo?photoreference=Aap_uEAysPbs9Zbz5iE63KiDNH7BhFg9nzJTwNHUlRLwt2BgPbma9aV0RU8NdQauOU0D9imMYUQmoUzrTxLrb0pHlb_tj5AJ4Fu8_RwwNNfG2LiCTQjX1vx-XL4-Qd7-AMsde0WDBIuqZQ4QHchBQ6AfnTBGNXuzQOYXjBg5XbFlAWMn5UQj&sensor=false&maxheight=30000&maxwidth=30000&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw" />
+<img src="https://maps.googleapis.com/maps/api/place/photo?photoreference=Aap_uECy58zZ32GX8_d2Q1L9KBi4W2evDOOVQ3s63f4sRd2yl3WELMwtqMNbppcCClsQg-KFYg2PA2amIiRS7bgHfqQnrkTPKRkuVbG8QdfnnqtZx1vNxb2MjhLXlXYpZClVNgGIUeUMVuvI0ZEmjYB-faDj4LqwDA9tBkcGFWnzM8GTpCGz&key=AIzaSyBJcJoJrGaUb_Gx1GJ2Swnh2N3gdF926Gw&maxheight=1000&maxwidth=600" />
+
+
+https://lh3.googleusercontent.com/places/AAcXr8pdRSw44jpw7uaYFCT7hoX9SMPOV_3KN2unLsUnw5MaceWl1-elvzrT6I8NcFE5RlM_jQroJxhzF7GhJ-bOHkPQ5dpTK6i68gU=s1600-w1888-h1079
+
+1. get place_id 
+2. get reference
+3. get image
