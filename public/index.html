@@ -78,17 +78,18 @@
       window.onload = function(){
         firebase.initializeApp(firebaseConfig)
         var databaseFirebase = firebase.database();
-
-        databaseFirebase.ref('unique_id').get().then((snapshot) => {
+        
+      
+        databaseFirebase.ref('unique_id').get().then((snapshot) => {        
           if (snapshot.exists()) {
             let numberOfUsers = snapshot.val();
             let userViews = document.getElementById('userViews')
             userViews.innerText = ++numberOfUsers
-              if( window.localStorage.getItem('user') != 'user' ){
+            if( window.localStorage.getItem('user') != 'user' ){
                 databaseFirebase.ref('unique_id').set(numberOfUsers);
                 window.localStorage.setItem('user', 'user'); 
-              }
-            } 
+            }
+          } 
         }); 
       }
     </script>
