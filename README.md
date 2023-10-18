@@ -1,3 +1,4 @@
 # reto
-MUDANZAS RETO
-practica de codigo y voluntariado
+# MUDANZAS RETO
+
+### Creado por Alexey Suzdalenko como practicas voluntarias de desarrollo 
