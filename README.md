@@ -1,1 +1,1 @@
-Suzdalenko como practicas voluntarias de desarrollo aplicaciones 
+practicas desarrollo aplicaciones 
