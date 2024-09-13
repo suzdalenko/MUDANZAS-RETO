@@ -37,7 +37,7 @@
                     </li>
                 </ul>
                 <span class="nav-item">
-                    <a class="btn-solid-sm" href="tel:+34643449721"><i class="fas fa-phone-alt"></i> 643 449 721</a>
+                    <a class="btn-solid-sm" href="tel:+34642575221"><i class="fas fa-phone-alt"></i> 643 449 721</a>
                 </span>
             </div> 
         </div> 

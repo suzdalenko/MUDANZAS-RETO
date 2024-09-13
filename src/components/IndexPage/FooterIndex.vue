@@ -7,7 +7,7 @@
                     <div class="text-container">
                         <h2>Servicio atención al cliente</h2>
                         <p class="p-large">En Mudanzas Reto estamos a tu plena disposición con cualquier tipo de pregunta duda o sugerencia, no dudes en escribirnos o llamarnos. <br> Trabajamos para ti</p>
-                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=+34643449721&text=Hola"><i class="fab fa-whatsapp"> 643 449 721</i></a>
+                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=+34642575221&text=Hola"><i class="fab fa-whatsapp"> 643 449 721</i></a>
                     </div> 
                 </div>
             </div> 
@@ -77,8 +77,8 @@
                     </ul>
                 </div> 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <p class="p-small statement"><a href="/sitemap.xml" target="_blank">Copyright © </a> 
-                    <a href="https://xboss.es" target="_blank"><b class="xboss">Creado por xBoss.es</b></a></p>
+                    <p class="p-small statement"><a href="/sitemap.xml" target="_blank">Copyright © Creado por </a> 
+                    <a href="https://suzdalenko-dev.web.app/" target="_blank"><b class="xboss">Suzdalenko Alexey</b></a></p>
                 </div> 
             </div>
         </div>  

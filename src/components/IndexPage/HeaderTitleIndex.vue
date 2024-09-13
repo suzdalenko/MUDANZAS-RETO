@@ -6,7 +6,7 @@
                     <div class="text-container">
                         <h1 class="h1-large">Mudanzas Reto Cantabria</h1>
                         <p class="p-large">Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, limpieza y más...</p>
-                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=34643449721&text=Hola" target="_blank"><i class="fab fa-whatsapp"></i> 643 449 721</a>
+                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=34642575221&text=Hola" target="_blank"><i class="fab fa-whatsapp"></i> 643 449 721</a>
                     </div> 
                 </div> 
                 <div class="col-lg-6 col-xl-7">
