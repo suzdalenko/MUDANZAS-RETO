@@ -13,9 +13,9 @@
             <div class="row">
                 <div class="col-xl-10 offset-xl-1">
                      <p class="mb-5 description_text">
-                       Como ya sabe Usted, en Mudanzas Reto hacemos trabajos de {{workPage}} en {{cityPage}}, por ello siempre puede colsultarnos un presupuesto sin ningún tipo de compromiso. Estamos a su disposición a través de la llama telefónica o mensajes de WhatsApp.
-                       <br><br>
-                       Envianos fotos de trabajo a ejecutar y en un breve instante le contestamos con un presupuesto ajustado.
+                        En Mudanzas Reto, nos especializamos en todo tipo de <b>{{workPage}}</b> a de más de mudanzas y limpiezas, ya sea de trastos, muebles viejos o cualquier otro tipo de cacharros. Si necesitas realizar una mudanza en <b>{{cityPage}}</b>, no dudes en pedirnos un presupuesto sin ningún compromiso. Estamos siempre a tu disposición, ya sea por llamada telefónica o a través de mensajes de WhatsApp.
+                        <br><br>
+                        Para ofrecerte un presupuesto más preciso, te invitamos a enviarnos fotos del trabajo que deseas realizar. En muy poco tiempo te responderemos con una propuesta ajustada a tus necesidades.
                      </p>
                 </div> 
             </div> 

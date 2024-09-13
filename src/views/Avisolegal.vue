@@ -45,12 +45,12 @@
                         o la infancia, el orden o la seguridad pública o que, a su juicio, no resultaran adecuados para su publicación. 
                         En cualquier caso, mudanzasreto.com no será responsable de las opiniones vertidas por los usuarios a través de los foros, chats, u otras herramientas de participación. </p>
                     <b>PROPIEDAD INTELECTUAL E INDUSTRIAL</b>
-                    <p>mudanzasreto.com por sí o como cesionaria, es titular de todos los derechos de propiedad intelectual e industrial de su página web junto con las imagenes que son propiedad de Google LCC presentadas en el portal web,
+                    <p>mudanzasreto.com por sí o como cesionaria, es titular de todos los derechos de propiedad intelectual e industrial de su página web junto con las imagenes que son propiedad de Google  presentadas en el portal web,
                         así como de los elementos contenidos en la misma (a título enunciativo, imágenes, sonido, audio, vídeo, software o textos; marcas o logotipos, combinaciones de colores, estructura y diseño, selección de materiales usados, 
                         programas de ordenador necesarios para su funcionamiento, acceso y uso, etc.), titularidad de mudanzasreto.com o bien de Google y sus licenciantes. 
                         Todos los derechos reservados. En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública,
                         incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico,
-                        sin la autorización de mudanzasreto.com. El USUARIO se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de mudanzasreto.com y Google LCC.
+                        sin la autorización de mudanzasreto.com. El USUARIO se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de mudanzasreto.com y Google.
                         Podrá visualizar los elementos del portal e incluso imprimirlos, copiarlos y almacenarlos en el disco duro de su ordenador o en cualquier otro soporte físico siempre y cuando sea, única y exclusivamente, para su uso personal y privado.
                         El USUARIO deberá abstenerse de suprimir, alterar, eludir o manipular cualquier dispositivo de protección o sistema de seguridad que estuviera instalado en el las páginas de mudanzasreto.com.</p>
                     <b>DIRECCIONES IP</b>

@@ -20,10 +20,12 @@ const routes = [{
     component: () => import ('../views/Preguntas'),  
   },{ 
     path: '/aviso-legal-y-politica-privacidad',
-    component: () => import ('../views/Avisolegal'),  
+    component: () => import ('../views/Avisolegal'),
+    meta: { title: 'AVISO LEGAL Y POLÍTICA PRIVACIDAD', description: 'Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
   },{ 
     path: '/politica-de-cookies',
-    component: () => import ('../views/Politicas'),  
+    component: () => import ('../views/Politicas'),
+    meta: { title: 'POLÍTICA DE COOKIES', description: 'Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
   },{ 
     path: '/404',
     component: () => import ('../views/404'),  
@@ -35,13 +37,13 @@ const router = createRouter({history: createWebHistory(process.env.BASE_URL), ro
 
 router.beforeEach((to) => {
   if(to.meta.title) { 
-     document.title = to.meta.title;
+     document.title = to.meta.title.toUpperCase();
      document.getElementsByTagName('meta').namedItem('description').setAttribute('content', to.meta.description)
   } 
   if (to.params.work && to.params.city){
      let pageTitle = to.params.work.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ') + ' ';
      pageTitle += to.params.city.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ');
-     document.title = pageTitle;
+     document.title = pageTitle.toUpperCase();
      document.getElementsByTagName('meta').namedItem('description').setAttribute('content', pageTitle)
   }
 });
