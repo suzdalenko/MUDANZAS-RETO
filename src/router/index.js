@@ -19,6 +19,12 @@ const routes = [{
     path: '/preguntas/:id',
     component: () => import ('../views/Preguntas'),  
   },{ 
+    path: '/aviso-legal-y-politica-privacidad',
+    component: () => import ('../views/Avisolegal'),  
+  },{ 
+    path: '/politica-de-cookies',
+    component: () => import ('../views/Politicas'),  
+  },{ 
     path: '/404',
     component: () => import ('../views/404'),  
   },{

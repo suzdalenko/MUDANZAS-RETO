@@ -32,12 +32,16 @@
                             <li><div class="dropdown-divider"></div></li>
                              <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[3]">Pintura</router-link></li>
                             <li><div class="dropdown-divider"></div></li>
-                             <li><router-link class="dropdown-item" to="/cuidades">Cuidades</router-link></li>
+                            <li><router-link class="dropdown-item" to="/cuidades">Cuidades</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/aviso-legal-y-politica-privacidad">Aviso Legal y política privacidad</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/politica-de-cookies">Política de cookies</router-link></li>
                         </ul>
                     </li>
                 </ul>
                 <span class="nav-item">
-                    <a class="btn-solid-sm" href="tel:+34642575221"><i class="fas fa-phone-alt"></i> 643 449 721</a>
+                    <a class="btn-solid-sm" href="tel:+34642575221"><i class="fas fa-phone-alt"></i> 642 575 221</a>
                 </span>
             </div> 
         </div> 

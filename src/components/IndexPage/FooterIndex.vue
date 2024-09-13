@@ -7,7 +7,7 @@
                     <div class="text-container">
                         <h2>Servicio atención al cliente</h2>
                         <p class="p-large">En Mudanzas Reto estamos a tu plena disposición con cualquier tipo de pregunta duda o sugerencia, no dudes en escribirnos o llamarnos. <br> Trabajamos para ti</p>
-                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=+34642575221&text=Hola"><i class="fab fa-whatsapp"> 643 449 721</i></a>
+                        <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=+34642575221&text=Hola"><i class="fab fa-whatsapp"> 642 575 221</i></a>
                     </div> 
                 </div>
             </div> 
@@ -72,7 +72,9 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <ul class="list-unstyled li-space-lg p-small">
-                        <li><img src="/images/mudanzas-reto.png" alt="Centro Mudanzas Reto" class="image_footer" /><a href="#">Aviso legal y politica de privacidad</a></li>
+                        <li><img src="/images/mudanzas-reto.png" alt="Centro Mudanzas Reto" class="image_footer" /></li>
+                        <li><a href="/aviso-legal-y-politica-privacidad">Aviso Legal y política privacidad</a></li>
+                        <li><a href="/politica-de-cookies">Política de cookies</a></li>
                         <li><a href="/">Visitas <span id="userViews">Cargando...</span></a></li>
                     </ul>
                 </div> 
