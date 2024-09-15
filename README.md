@@ -4,6 +4,4 @@ practicas desarrollo aplicaciones
 ###### 
 
 ###### C:\__download\MUDANZAS-RETO>set NODE_OPTIONS=--openssl-legacy-provider
-###### C:\__download\MUDANZAS-RETO>set NODE_OPTIONS=--openssl-legacy-provider
-###### C:\__download\MUDANZAS-RETO>set NODE_OPTIONS=--openssl-legacy-provider
 ###### C:\__download\MUDANZAS-RETO>npm run serve

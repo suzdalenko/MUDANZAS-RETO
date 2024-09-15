@@ -4,11 +4,11 @@ import Index from '../views/Index';
 const routes = [{
     path: '/',
     component: Index,
-    meta: { title: 'Mudanzas Reto', description: 'Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
+    meta: { title: 'Mudanzas Reto Cantabria, Mudanzas Reto Santander, Mudanzas Reto Castro Urdiales, Mudanzas Reto Torrelavega, Mudanzas Reto Laredo, Mudanzas Reto Astillero', description: 'Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
   },{
     path: '/cuidades',
     component: () => import ('../views/Cuidades'),
-    meta: { title: '✔️ Mudanzas Reto Cantabria ', description: 'Mudanzas Reto Santander, Mudanzas y transportes particulares y empresas, recogida de muebles'}
+    meta: { title: '✔️ Cuidades en las que trabajos, Mudanzas Reto Cantabria, Mudanzas Reto Santander, Mudanzas Reto Castro Urdiales, Mudanzas Reto Torrelavega, Mudanzas Reto Laredo, Mudanzas Reto Astillero', description: 'Mudanzas Reto Santander, Mudanzas y transportes particulares y empresas, recogida de muebles'}
   },{
     path: '/:work/:city',
     component: () => import ('../views/WorkPage'),
@@ -37,12 +37,12 @@ const router = createRouter({history: createWebHistory(process.env.BASE_URL), ro
 
 router.beforeEach((to) => {
   if(to.meta.title) { 
-     document.title = to.meta.title.toUpperCase();
-     document.getElementsByTagName('meta').namedItem('description').setAttribute('content', to.meta.description)
+     document.title = to.meta.title.toUpperCase() + ' - MUDANZAS RETO';
+     document.getElementsByTagName('meta').namedItem('description').setAttribute('content', to.meta.description+' - MUDANZAS RETO')
   } 
   if (to.params.work && to.params.city){
      let pageTitle = to.params.work.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ') + ' ';
-     pageTitle += to.params.city.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ');
+     pageTitle += to.params.city.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ') + ' - MUDANZAS RETO';
      document.title = pageTitle.toUpperCase();
      document.getElementsByTagName('meta').namedItem('description').setAttribute('content', pageTitle)
   }

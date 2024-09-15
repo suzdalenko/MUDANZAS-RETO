@@ -28,9 +28,35 @@
                             <li><div class="dropdown-divider"></div></li>
                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[1]">Vaciados</router-link></li>
                             <li><div class="dropdown-divider"></div></li>        
-                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[2]">Reformas</router-link></li>
+                            <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[2]">Reformas</router-link></li>
                             <li><div class="dropdown-divider"></div></li>
-                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[3]">Pintura</router-link></li>
+                            <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[3]">Pintura</router-link></li>
+
+
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Santander">Mudanzas Santander</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Torrelavega">Mudanzas Torrelavega</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Camargo">Mudanzas Camargo</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Laredo">Mudanzas Laredo</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Castro-Urdiales">Mudanzas Castro Urdiales</a></li>
+
+
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://retobilbao.com/Mudanzas/Bilbao">Mudanzas Bilbao</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://retobilbao.com/Mudanzas/San-Sebastián-(Donostia)">Mudanzas San Sebastián (Donostia)</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://retobilbao.com/Mudanzas/Vitoria-Gasteiz">Mudanzas Vitoria-Gasteiz</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://retobilbao.com/Mudanzas/Getxo">Mudanzas Getxo</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://retobilbao.com/Mudanzas/Barakaldo">Mudanzas Barakaldo</a></li>
+
+
                             <li><div class="dropdown-divider"></div></li>
                             <li><router-link class="dropdown-item" to="/cuidades">Cuidades</router-link></li>
                             <li><div class="dropdown-divider"></div></li>
