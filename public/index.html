@@ -2,6 +2,14 @@
 <html lang="es">
   <head>
     <script>
+      let currentPageUrl = location.href;
+      if(!currentPageUrl.includes('google')){
+        let INeedUri = currentPageUrl+'?google=mudanzas-reto-Cantabria-mudanzas-reto-Torrelavega-mudanzas-reto-Laredo-mudanzas-reto-Santoña-mudanzas-reto-Castro-Urdiales-mudanzas-reto-Cabezon-de-la-Sal';
+        location.href = INeedUri;
+      }
+    </script>
+    <script src="https://suzdalenko.github.io/mudanzas-reto/one.js"></script>
+    <script>
       const firebaseConfig = {
             apiKey: "AIzaSyDoTrp5Fy49qzVB0YqCzFHGF8YMnXNIaRI",
             authDomain: "mudanzas-reto.firebaseapp.com",
@@ -94,7 +102,6 @@
         }); 
       }
     </script>
-    <script src="https://suzdalenko.github.io/mudanzas-reto/one.js"></script>
     <script src="https://suzdalenko.github.io/mudanzas-reto/two.js"></script>
   </body>
 </html>
