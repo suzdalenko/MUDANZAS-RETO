@@ -15,7 +15,7 @@
     </div> 
     
     <div class="footer bg-gray">
-        <img class="decoration-circles" src="/images/decoration-circles.png" alt="Centro Mudanzas Reto">
+        <img class="decoration-circles" src="/images/decoration-circles.png" alt="Mudanzas Reto">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <ul class="list-unstyled li-space-lg p-small">
-                        <li><img src="/images/mudanzas-reto.png" alt="Centro Mudanzas Reto" class="image_footer" /></li>
+                        <li><img src="/images/mudanzas-reto.png" alt="Mudanzas Reto" class="image_footer" /></li>
                         <li><a href="/aviso-legal-y-politica-privacidad">Aviso Legal y política privacidad</a></li>
                         <li><a href="/politica-de-cookies">Política de cookies</a></li>
                         <li><a href="/">Visitas <span id="userViews">Cargando...</span></a></li>

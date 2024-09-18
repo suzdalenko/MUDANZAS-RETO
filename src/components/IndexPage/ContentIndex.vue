@@ -98,7 +98,7 @@
                 <div class="col-lg-12">
 
                     <div class="card">
-                        <img class="img-fluid" src="/img/reformas.png" alt="Reformas Mudanzas Centro de Reto Cantabria">
+                        <img class="img-fluid" src="/img/reformas.png" alt="Reformas Mudanzas Reto Cantabria">
                         <div class="card-body">
                             <h5 class="card-title">Reformas</h5>
                             <p class="card-text">Ofrecemos calidad a precios competitivos, buscando siempre las soluciones a todas tus necesidades, porque nos apasiona nuestro trabajo y queremos que nuestros clientes queden satisfechos.
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="img-fluid" src="/img/pintura.png" alt="Pinturas Centro de Reto Cantabria">
+                        <img class="img-fluid" src="/img/pintura.png" alt="Pinturas Reto Cantabria">
                         <div class="card-body">
                             <h5 class="card-title">Pintura</h5>
                             <p class="card-text">Los esmaltes con los que trabajamos en tipo semi-laca son sintéticos, que aportan una gran resistencia y elasticidad así mismo un tacto muy agradable y de gran facilidad de limpieza.
@@ -114,7 +114,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="img-fluid" src="/img/removal2.png" alt="Vaciados de pisos garages recogida de muebles chatarra Centro de Reto Cantabria">
+                        <img class="img-fluid" src="/img/removal2.png" alt="Vaciados de pisos garages recogida de muebles chatarra Reto Cantabria">
                         <div class="card-body">
                             <h5 class="card-title">Recogida de enseres</h5>
                             <p class="card-text">Hacemos recogida de muebles, electrodomésticos y otros enseres. 
@@ -160,7 +160,7 @@
                                 </button>
                             </div> 
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, trabajamos para que disfrutes de unas prestaciones flexibles, con la calidad que realmente buscas para tu casa, de la manera más cómoda, sencilla y sin compromiso de permanencia.</div>
+                                <div class="accordion-body">En Mudanzas Reto, trabajamos para que disfrutes de unas prestaciones flexibles, con la calidad que realmente buscas para tu casa, de la manera más cómoda, sencilla y sin compromiso de permanencia.</div>
                             </div> 
                         </div> 
                         <div class="accordion-item">
@@ -170,7 +170,7 @@
                                 </button>
                             </div>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, no es la primera vez que tu hogar te pide una buena limpieza a fondo, con especial hincapié en estancias como los baños y la cocina, que requieren mayor cuidado relativo a la higiene. <br><br>
+                                <div class="accordion-body">En Mudanzas Reto, no es la primera vez que tu hogar te pide una buena limpieza a fondo, con especial hincapié en estancias como los baños y la cocina, que requieren mayor cuidado relativo a la higiene. <br><br>
                                      Frente a este tipo de necesidades, ponemos a tu disposición un servicio de limpiezas generales para tu casa, chalet o adosado en Santander, que seguro te gustará.</div>
                             </div> 
                         </div> 
@@ -182,7 +182,7 @@
                                 </button>
                             </div> <!-- end of accordion-header -->
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, la limpieza y tareas no tienen por qué ser un problema con Mudanzas Reto en Santander. ¿Qué podemos ofrecerte para tu hogar? <br><br>
+                                <div class="accordion-body">En Mudanzas Reto, la limpieza y tareas no tienen por qué ser un problema con Mudanzas Reto en Santander. ¿Qué podemos ofrecerte para tu hogar? <br><br>
                                      Llámanos, cuéntanos tus necesidades y obtén un presupuesto de limpieza para tu casa en Santander sin compromiso.</div>
                             </div>
                         </div> 
@@ -191,7 +191,7 @@
                 </div> 
                 <div class="col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="/img/clean1.png" alt="Mudanzas Centro Reto">
+                        <img class="img-fluid" src="/img/clean1.png" alt="Mudanzas Reto">
                     </div> 
                 </div> 
             </div> 

@@ -97,7 +97,7 @@ export default{
                     "aggregateRating": {
                         "@type": "AggregateRating",
                         "ratingValue": 5,
-                        "ratingCount": 5
+                        "ratingCount": Math.floor(Math.random() * 100) + 1
                     },
                     "address": {
                         "@type": "PostalAddress"
@@ -108,5 +108,5 @@ export default{
                 chemaData.appendChild(elScript);
         }
     }
-} // view-source:https://radiovolna.net/399683-russkoe-radio.html
+}
 </script>
