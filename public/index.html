@@ -3,7 +3,7 @@
   <head>
     <script>
       let currentPageUrl = location.href;
-      if(!currentPageUrl.includes('google')){
+      if(!currentPageUrl.includes('google') && !currentPageUrl.includes('#')){
         let INeedUri = currentPageUrl+'?google=mudanzas-reto-Cantabria-mudanzas-reto-Torrelavega-mudanzas-reto-Laredo-mudanzas-reto-Santoña-mudanzas-reto-Castro-Urdiales-mudanzas-reto-Cabezon-de-la-Sal';
         location.href = INeedUri;
       }

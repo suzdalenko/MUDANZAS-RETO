@@ -64,7 +64,7 @@
                             <li class="d-flex">
                                     <i class="fas fa-square"></i>
                                     <router-link to="/" class="decoration_none">
-                                        <h5 class="flex-grow-1">Limpieza sindrome de diogenes</h5>
+                                        <h5 class="flex-grow-1">Limpieza de viviendas afectadas por sindrome de diogenes</h5>
                                     </router-link>
                             </li>
                         </ul>
