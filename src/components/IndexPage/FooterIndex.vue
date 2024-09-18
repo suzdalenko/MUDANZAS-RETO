@@ -23,31 +23,31 @@
                     <p>Disponible próximamente</p>
                     <div class="social-container">
                         <span class="fa-stack">
-                            <a href="https://play.google.com/store/apps/dev?id=8185819019973346070" target="_blank">
+                            <a href="/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                             <a href="https://play.google.com/store/apps/dev?id=8185819019973346070" target="_blank">
+                             <a href="/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-twitter fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                             <a href="https://play.google.com/store/apps/dev?id=8185819019973346070" target="_blank">
+                             <a href="/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-google fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                             <a href="https://play.google.com/store/apps/dev?id=8185819019973346070" target="_blank">
+                             <a href="/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="https://play.google.com/store/apps/dev?id=8185819019973346070" target="_blank">
+                            <a href="/" target="_blank">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-youtube fa-stack-1x"></i>
                             </a>

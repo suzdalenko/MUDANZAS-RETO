@@ -13,6 +13,7 @@
             </div> 
         </div> 
     </div>
+    <PreguntasFrecuentes />
     <div class="ex-basic-1 pt-3 pb-5">
         <div class="container">
             <div class="row">
@@ -31,12 +32,13 @@
 import HeaderIndex from '@/components/IndexPage/HeaderIndex';
 import HeaderBottom from '@/components/WorkPage/HeaderBottom';
 import ContentWorkPage from '@/components/WorkPage/ContentWorkPage';
+import PreguntasFrecuentes from '@/components/PreguntasComp/PreguntasFrecuentes';
 import FooterIndex from '@/components/IndexPage/FooterIndex';
 
 
 
 export default{
-    components: { HeaderIndex, HeaderBottom, ContentWorkPage, FooterIndex },
+    components: { HeaderIndex, HeaderBottom, ContentWorkPage, PreguntasFrecuentes, FooterIndex },
     data (){
         return {
             photo_referenceArray: [], 

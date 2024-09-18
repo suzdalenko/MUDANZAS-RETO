@@ -52,6 +52,46 @@
                                     </router-link>
                             </li>
                         </ul>
+                        <ul class="list-unstyled li-space-lg mb-5">
+                            <li class="d-flex">
+                                    <i class="fas fa-square"></i>
+                                    <router-link to="/" class="decoration_none">
+                                        <h5 class="flex-grow-1">Telefono de Mudanzas Reto 642 57 52 21</h5>
+                                    </router-link>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled li-space-lg mb-5">
+                            <li class="d-flex">
+                                    <i class="fas fa-square"></i>
+                                    <router-link to="/" class="decoration_none">
+                                        <h5 class="flex-grow-1">Limpieza sindrome de diogenes</h5>
+                                    </router-link>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled li-space-lg mb-5">
+                            <li class="d-flex">
+                                    <i class="fas fa-square"></i>
+                                    <router-link to="/" class="decoration_none">
+                                        <h5 class="flex-grow-1">Desalojos y limpiezas de oficinas y naves</h5>
+                                    </router-link>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled li-space-lg mb-5">
+                            <li class="d-flex">
+                                    <i class="fas fa-square"></i>
+                                    <router-link to="/" class="decoration_none">
+                                        <h5 class="flex-grow-1">Servicio de vaciado de pisos rápido</h5>
+                                    </router-link>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled li-space-lg mb-5">
+                            <li class="d-flex">
+                                    <i class="fas fa-square"></i>
+                                    <router-link to="/" class="decoration_none">
+                                        <h5 class="flex-grow-1">Mudanzas Reto recogida muebles</h5>
+                                    </router-link>
+                            </li>
+                        </ul>
                 </div>
             </div>
         </div>
